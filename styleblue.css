@@ -1,0 +1,87 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  background-image: url("https://awesomecoolnessepic.neocities.org/scrolling%20background%20blue.gif");
+  background-repeat: repeat;
+  background-size: 100%;  
+  font-size: 12pt;
+  align-items: center;
+ }
+
+a {
+  color: #74daff;
+}
+
+a:hover {
+  color: #7500ff;
+}
+
+
+.border {
+    border-width: 4px;
+    border-style: solid;
+    border-color: blue; 
+}
+
+
+h1 {
+  border-radius: 25px;
+  color: #74daff;
+  text-shadow: 6px 6px #2000FF;
+  width: 750px;
+  border: 10px solid white;
+  background-color: #160626;
+  margin: 30px auto;
+  padding: 15px;
+  font-size: 40pt;
+}
+h3 {
+  border-radius: 25px;
+  color: #74daff;
+  text-shadow: 4px 4px #2000FF;
+  width: 400px;
+  border: 10px solid white;
+  background-color: #160626;
+  margin: 30px auto;
+  padding: 15px;
+}
+p {
+  border-radius: 25px;
+  text-shadow: 1.5px 2px #2000FF;
+  width: 750px;
+  border: 10px solid white;
+  background-color: #160626;
+  margin: 10px auto;
+  padding: 15px;
+}
+li {
+  text-shadow: 1.5px 2px #2000FF;
+  width: 500px;
+  border: 10px solid white;
+   background-color: #160626;
+  margin: 10px auto;
+  padding: 15px;
+}
+div {
+  border-radius: 25px;
+  text-shadow: 1.5px 2px #2000FF;
+  width: 500px;
+  border: 10px solid white;
+  background-color: #160626;
+  margin: 10px auto;
+  padding: 15px;
+}
+
+.music{
+  border-radius: 35px;
+  text-shadow: 1.5px 2px #2000FF;
+  width: 250px;
+  border: 5px solid white;
+  background-color: #160626;
+  margin: 10px auto;
+  padding: 15px;
+}
