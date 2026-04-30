@@ -1,0 +1,101 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  background-image: url(https://awesomecoolnessepic.neocities.org/thing/checkerboard%20handdrawn.gif);
+  background-repeat: repeat;
+  background-size: 100%;  
+  font-size: 15pt;
+  align-items: center;
+ }
+
+a {
+  color: red;
+}
+
+a:hover {
+  color: grey;
+}
+
+a:visited {
+  color: black;
+}
+
+a:active{
+  color: black;
+  text-decoration: underline;
+}
+
+
+.border {
+    border-width: 4px;
+    border-style: solid;
+    border-color: #7500ff; 
+}
+
+
+h1 {
+  display: flex;
+  border-radius: 20px;
+  color: black;
+  text-shadow: 6px 6px gray;
+  width: 600px;
+  justify-content: center;
+  border: 10px solid black;
+  background-color: white;
+  margin: 30px auto;
+  padding: 15px;
+  font-size: 40pt;
+}
+h3 {
+  font-size: 12pt;
+  border-radius: 25px;
+  color: black;
+  text-shadow: 4px 4px gray;
+  width: 400px;
+  border: 10px solid black;
+  background-color: white;
+  margin: 30px auto;
+  padding: 15px;
+}
+p {
+  border-radius: 25px;
+  color: black;
+  text-shadow: 2px 2px gray;
+  width: 500px;
+  border: 10px solid black;
+  background-color: white;
+  margin: 10px auto;
+  padding: 15px;
+}
+li {
+  text-shadow: 1.5px 2px gray;
+  color: black;  
+  width: 500px;
+  border: 10px solid black;
+  background-color: white;
+  margin: 10px auto;
+  padding: 15px;
+}
+div {
+  border-radius: 25px;
+  color: black;  
+  text-shadow: 1.5px 2px gray;
+  width: 384px;
+  border: 10px solid black;
+  background-color: gray;
+  margin: 10px auto;
+  padding: 15px;
+}
+
+.intro {
+   border-radius: 25px;
+  color: black;  
+  text-shadow: 1.5px 2px gray;
+  width: 300px;
+  border: 10px solid black;
+  background-color: white;
+  margin: 10px auto;
+  padding: 15px; 
+  }
+  
