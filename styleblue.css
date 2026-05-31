@@ -35,8 +35,8 @@ h1 {
   text-shadow: 6px 6px #2000FF;
   width: 600px;
   justify-content: center;
-  border: 10px solid black;
-  background-color: white;
+  border: 10px solid white;
+  background-color: #160626;
   margin: 30px auto;
   padding: 15px;
   font-size: 40pt;
