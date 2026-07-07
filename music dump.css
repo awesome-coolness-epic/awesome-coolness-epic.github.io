@@ -1,0 +1,77 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  background-image: url("pinkpurplebg.gif");
+  background-repeat: repeat;
+  background-size: 100%;  
+  font-size: 12pt;
+  align-items: center;
+ }
+
+a {
+  color: #ff3f95;
+}
+
+a:hover {
+  color: #E0115F;
+}
+
+
+.border {
+    border-width: 4px;
+    border-style: solid;
+    border-color: pink; 
+}
+
+
+h1 {
+  display: flex;
+  border-radius: 25px;
+  color: #ff3f95;
+  text-shadow: 6px 6px #450093;
+  width: 600px;
+  justify-content: center;
+  border: 10px solid white;
+  background-color: #160626;
+  margin: 30px auto;
+  padding: 15px;
+  font-size: 40pt;
+}
+h3 {
+  border-radius: 25px;
+  color: #ff3f95;
+  text-shadow: 4px 4px #450093;
+  width: 400px;
+  border: 10px solid white;
+  background-color: #160626;
+  margin: 30px auto;
+  padding: 15px;
+}
+p {
+  border-radius: 25px;
+  text-shadow: 1.5px 2px #450093;
+  width: 750px;
+  border: 10px solid white;
+  background-color: #160626;
+  margin: 10px auto;
+  padding: 15px;
+}
+li {
+  text-shadow: 1.5px 2px #450093;
+  width: 500px;
+  border: 10px solid white;
+   background-color: #160626;
+  margin: 10px auto;
+  padding: 15px;
+}
+div {
+  border-radius: 25px;
+  text-shadow: 1.5px 2px #2000FF;
+  width: 500px;
+  border: 10px solid white;
+  background-color: #160626;
+  margin: 10px auto;
+  padding: 15px;
+}
+
