@@ -33,6 +33,7 @@ h1 {
   color: #ff8800;
   text-shadow: 6px 6px #29004f;
   width: 750px;
+  justify-content: center;
   border: 10px solid white;
   background-color: #160626;
   margin: 30px auto;
