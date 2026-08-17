@@ -40,10 +40,12 @@ h1 {
   font-size: 40pt;
 }
 h3 {
+  display: flex;
   border-radius: 25px;
   color: #ff8800;
   text-shadow: 4px 4px #29004f;
   width: 400px;
+  justify-content: center;
   border: 10px solid white;
   background-color: #160626;
   margin: 30px auto;
