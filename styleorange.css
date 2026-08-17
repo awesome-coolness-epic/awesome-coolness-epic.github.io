@@ -26,13 +26,12 @@ a:hover {
     border-style: solid;
     border-color: blue; 
 }
-
-
 h1 {
+  display: flex;
   border-radius: 25px;
   color: #ff8800;
   text-shadow: 6px 6px #29004f;
-  width: 750px;
+  width: 600px;
   justify-content: center;
   border: 10px solid white;
   background-color: #160626;
